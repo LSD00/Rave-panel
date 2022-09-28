@@ -1,0 +1,6 @@
+{ "methods" :
+  [
+    {"name": "HTTP-RAW.js", "use":"node HTTP-RAW.js *target* *time*"},
+    {"name": "HTTP-RAND.js", "use":"node HTTP-RAND.js *target* *time*"}
+  ]
+}
