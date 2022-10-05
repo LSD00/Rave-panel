@@ -1,7 +1,7 @@
 # Rave-panel
 bilder of centralized management of multiple servers for DDOS attacks / other tasks
 ## Server
-You need to upload ```/server/``` on your serve, also you must upload your scripts, and write usage in ```methods.js```(also you must write port to usage in ```config.conf```, and open it)
+You need to upload ```/server/``` on your server, also you must upload your scripts, and write usage in ```methods.js```(also you must write port to usage in ```config.conf```, and open it)
 ## Client 
 You must install modules, write servers in ```server.txt```, and start it 
 ```sh
